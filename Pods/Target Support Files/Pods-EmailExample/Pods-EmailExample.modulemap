@@ -1,0 +1,6 @@
+framework module Pods_EmailExample {
+  umbrella header "Pods-EmailExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
